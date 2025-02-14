@@ -1,14 +1,9 @@
-# Lee Hindle | Full-Stack Developer 👨‍💻
+# 👋 Hi, I'm Lee Hindle
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://leehindle.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leehindle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lhndl93)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@leehindle.dev)
+## 🚀 About Me
+Operations Manager by day, Software Developer by night. Currently managing transport operations while actively pursuing opportunities in full-stack development. Combining operational expertise with a passion for creating efficient, user-focused web applications.
 
-Operations Manager turned Full-Stack Developer, combining operational excellence with modern web development expertise. I specialize in building efficient, user-focused applications using cutting-edge technologies.
-
-## 🛠️ Tech Stack
-
+## 💻 Tech Stack
 ```typescript
 const techStack = {
     frontend: {
@@ -29,38 +24,39 @@ const techStack = {
 };
 ```
 
-## 🎯 Current Focus
-
+## 🔥 Current Focus
 - Building modern web applications with **Next.js App Router**
 - Full-stack **TypeScript** development
 - Cloud infrastructure and **DevOps** practices
 - **UI/UX** implementation with Tailwind and Framer Motion
 - Performance optimization and responsive design
 
-## 🏆 Professional Background
-
-- ⚡ 12+ years of industry experience
-- 🚀 50+ successful projects delivered
-- 💻 Expertise in 15+ technologies
+## 📊 Quick Stats
+- ⚡ 12+ years of experience
+- 🚀 50+ projects completed
+- 💻 15+ technologies mastered
 - 🌍 Based in United Kingdom
 
-## 📜 Certifications
-
+## 🎓 Certifications & Memberships
 - Cisco Certified Network Associate (CCNA)
 - CompTIA Security+
 - Chartered Member of Institute of Logistics and Transport (CMILT)
 - Member of Chartered Management Institute
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://leehindle.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leehindle)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lhndl93)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@leehindle.dev)
 
+## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lhndl93&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhndl93&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 🌟 Featured Projects
-
-- [**Portfolio Website**](https://leehindle.dev) - Personal portfolio showcasing my work, built with Next.js 14, TypeScript, and Tailwind CSS
+- [**Portfolio Website**](https://leehindle.dev) - Personal portfolio built with Next.js, TypeScript, and Tailwind CSS
 - **Transport Management System** - Custom internal business applications for logistics operations
 - **WordPress Development** - Custom themes and plugins for business clients
 
